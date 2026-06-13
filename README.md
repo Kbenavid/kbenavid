@@ -6,12 +6,12 @@ and grow their online presence.
 
 ---
 
-## 🔭 What I'm Working On
+## 💼 What I'm Working On
 - **BCode Systems** — client websites and landing pages built with Next.js and Tailwind CSS
 - **TruWork** — a full-stack PWA currently in beta testing
 - **Special Event Hosting Platform** — in the pipeline 🚀
 
-## 🌱 Currently Learning
+## 📕 Currently Learning
 - CCNA networking & infrastructure
 - SQL & relational databases
 - Deepening Python skills
@@ -31,7 +31,7 @@ and grow their online presence.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-## 📫 How to Reach Me
+## 📫📱 How to Reach Me
 - LinkedIn: [linkedin.com/in/kyle-benavides](https://www.linkedin.com/in/kyle-benavides)
 - Business: [bcodesystems.com](https://www.bcodesystems.com/)
 
